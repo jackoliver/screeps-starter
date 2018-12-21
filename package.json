@@ -1,0 +1,30 @@
+{
+  "name": "screeps-starter",
+  "version": "1.0.0",
+  "description": "Starter kit for Gulp Screeps on private servers",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackoliver/screeps-starter.git"
+  },
+  "keywords": [
+    "screeps",
+    "gulp",
+    "starter",
+    "private",
+    "server"
+  ],
+  "author": "Jack-Edward Oliver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackoliver/screeps-starter/issues"
+  },
+  "homepage": "https://github.com/jackoliver/screeps-starter#readme",
+  "dependencies": {
+    "gulp": "^4.0.0",
+    "gulp-screeps": "^1.0.8"
+  }
+}
